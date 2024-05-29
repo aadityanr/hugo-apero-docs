@@ -7,6 +7,5 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :India:
 
-This is the personal webpage of Aadityan R Kurungat. Work in progress.
+This is the personal webpage of Aadityan R Kurungat. :India: Work in progress.
